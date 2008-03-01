@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>moveRight:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>moveRight:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>insertNewline:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>)</string>
+	<key>name</key>
+	<string>Overtype closing)</string>
+	<key>scope</key>
+	<string>source.n3 meta.statement.object.list.n3</string>
+	<key>uuid</key>
+	<string>6D706691-7729-415C-A559-65D4467334AE</string>
+</dict>
+</plist>

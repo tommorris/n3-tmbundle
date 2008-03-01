@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>excludedItems</key>
+		<array>
+			<string>6D706691-7729-415C-A559-65D4467334AE</string>
+		</array>
+		<key>items</key>
+		<array/>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>N3</string>
+	<key>ordering</key>
+	<array>
+		<string>D69A23E2-A4C9-422C-8586-B1B13D638D6E</string>
+		<string>FFF74C83-C3BE-4CEB-A9BC-99DB3DE9E9DC</string>
+		<string>3AF7D2AC-4600-4E8D-AFCE-61EBC287E0E9</string>
+		<string>897D3FCA-D09E-4606-B2A5-704C117500AA</string>
+		<string>A811073B-A20F-4F52-AD26-8961B295772C</string>
+		<string>D4D94676-4FE7-4B43-99AA-94B3AA95D79F</string>
+		<string>FD0472BC-2144-4E41-94CF-347D1E79C464</string>
+		<string>14B865F3-9262-4316-BAF5-E82AD0A17B98</string>
+		<string>6D706691-7729-415C-A559-65D4467334AE</string>
+		<string>ED69C653-5E33-4E6C-815E-8115009A9FA7</string>
+	</array>
+	<key>uuid</key>
+	<string>AC1E21AB-F884-4E88-AF0F-6F9E03C87F48</string>
+</dict>
+</plist>

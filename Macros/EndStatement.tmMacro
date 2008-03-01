@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>argument</key>
+			<string>.</string>
+			<key>command</key>
+			<string>insertText:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>insertNewline:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>.</string>
+	<key>name</key>
+	<string>EndStatement</string>
+	<key>scope</key>
+	<string>source.sparql meta.statement.object</string>
+	<key>uuid</key>
+	<string>ED69C653-5E33-4E6C-815E-8115009A9FA7</string>
+</dict>
+</plist>
